@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Name: Rebecca Hsieh
  * CptS 233: MicroAssignment #1
  * Date: September 4, 2020
- * gitRepo url:
+ * gitRepo url: https://github.com/hsiehreb/CPTS233
  */
 
 public class CarpetCalculator {
